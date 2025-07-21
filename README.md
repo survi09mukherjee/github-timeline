@@ -67,9 +67,11 @@ Then open your browser and go to:
 
 ## 🖼 Screenshot
 
-> _(Add your screenshot and save it in an `assets/` folder)_
+> 
+<img width="1915" height="874" alt="3" src="https://github.com/user-attachments/assets/4645051d-1355-4131-b229-24783b22715e" />
+<img width="1826" height="832" alt="2" src="https://github.com/user-attachments/assets/f7a4784e-4cb2-4b9e-8e10-9f1c78b816b2" />
+<img width="1874" height="866" alt="1" src="https://github.com/user-attachments/assets/a1929988-3005-4ab3-8416-bcea2a0fb1a9" />
 
-![screenshot](assets/github-timeline-demo.png)
 
 ---
 
